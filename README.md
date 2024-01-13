@@ -1,2 +1,2 @@
-# Github-Basicks
+# Github-Basics
 Introduction to Git
